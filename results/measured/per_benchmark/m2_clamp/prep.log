@@ -1,0 +1,2 @@
+{"name": "m2_clamp", "bridge_ok": true, "orig_violates": true, "t_compile": 28.317221641540527, "compile_ok": true, "r1cs_nonlinear": 203771, "r1cs_linear": 0}
+{"nA": 961, "nvA": 802, "nB": 1095, "nvB": 932, "nU": 64, "K": 2, "W": 32, "Q": 4, "NL": 208, "nL": 207, "TT": 800, "T": 788, "TD": 256, "base": 1160, "pad": 16, "t_encode": 0.03871560096740723, "t_solve": 0.0030012130737304688, "compacted": false, "lrat_lemmas": 207, "lrat_hints": 788, "t_wit": 0.05049848556518555}

@@ -1,0 +1,2 @@
+{"name": "ic_smallest_1", "bridge_ok": true, "orig_violates": true, "t_compile": 128.3887996673584, "compile_ok": true, "r1cs_nonlinear": 765246, "r1cs_linear": 0}
+{"nA": 1054, "nvA": 2184, "nB": 1068, "nvB": 2252, "nU": 64, "K": 2, "W": 32, "Q": 8, "NL": 288, "nL": 275, "TT": 1760, "T": 1740, "TD": 320, "base": 1133, "pad": 16, "t_encode": 0.03873586654663086, "t_solve": 0.0035321712493896484, "compacted": false, "lrat_lemmas": 275, "lrat_hints": 1740, "t_wit": 0.0617218017578125}

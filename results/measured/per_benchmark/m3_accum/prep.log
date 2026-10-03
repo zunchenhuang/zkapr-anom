@@ -1,0 +1,2 @@
+{"name": "m3_accum", "bridge_ok": true, "orig_violates": true, "t_compile": 87.5295090675354, "compile_ok": true, "r1cs_nonlinear": 581983, "r1cs_linear": 0}
+{"nA": 1712, "nvA": 1056, "nB": 1846, "nvB": 1186, "nU": 32, "K": 1, "W": 32, "Q": 6, "NL": 416, "nL": 400, "TT": 1584, "T": 1561, "TD": 480, "base": 1879, "pad": 16, "t_encode": 0.03527545928955078, "t_solve": 0.0033600330352783203, "compacted": false, "lrat_lemmas": 400, "lrat_hints": 1561, "t_wit": 0.056116342544555664}

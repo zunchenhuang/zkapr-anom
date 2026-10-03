@@ -1,0 +1,2 @@
+{"name": "ic_grade_3", "bridge_ok": true, "orig_violates": true, "t_compile": 276.487943649292, "compile_ok": true, "r1cs_nonlinear": 1472322, "r1cs_linear": 0}
+{"nA": 1720, "nvA": 3017, "nB": 1739, "nvB": 3086, "nU": 128, "K": 4, "W": 32, "Q": 11, "NL": 624, "nL": 615, "TT": 2240, "T": 2227, "TD": 752, "base": 1868, "pad": 16, "t_encode": 0.05210614204406738, "t_solve": 0.005205869674682617, "compacted": false, "lrat_lemmas": 615, "lrat_hints": 2227, "t_wit": 0.1058967113494873}

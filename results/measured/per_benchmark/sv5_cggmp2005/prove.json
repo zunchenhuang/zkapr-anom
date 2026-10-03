@@ -1,0 +1,39 @@
+{
+ "name": "sv5_cggmp2005",
+ "t_setup": 11.119921437,
+ "pk_bytes": 40659792,
+ "vk_bytes": 296,
+ "aux_bytes": 8388872,
+ "constraints": 208081,
+ "wires": 201693,
+ "t_setup_wall": 11.704564809799194,
+ "mem_setup_mb": 425.28125,
+ "crs_ok": true,
+ "t_crscheck": 62.959962638,
+ "witness_ok": true,
+ "t_wtns": 3.901353120803833,
+ "t_prove": 3.435753148,
+ "proof_bytes": 128,
+ "t_prove_wall": 12.361027717590332,
+ "mem_prove_mb": 700.0859375,
+ "verify_ok": true,
+ "t_verify_ms": 1.9587276500000002,
+ "t_verify_first_ms": 2.884951,
+ "t7_reasons": {
+  "h": "h_query",
+  "l": "l_query",
+  "alpha": "alpha",
+  "gamma0": "degenerate gamma",
+  "a": "a_query"
+ },
+ "tamper_rejected": {
+  "T1_unsafe_sigma": true,
+  "T3_forged_refutation": true,
+  "T3b_forged_lookup": true,
+  "T6_bad_model": true,
+  "T2_wrong_statement": true,
+  "T4_wrong_opening": true,
+  "T5_corrupted_proof": true,
+  "T7_subverted_crs": true
+ }
+}

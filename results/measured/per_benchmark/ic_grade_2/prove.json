@@ -1,0 +1,39 @@
+{
+ "name": "ic_grade_2",
+ "t_setup": 75.031140874,
+ "pk_bytes": 323484848,
+ "vk_bytes": 296,
+ "aux_bytes": 67109128,
+ "constraints": 1605696,
+ "wires": 1602348,
+ "t_setup_wall": 80.03202176094055,
+ "mem_setup_mb": 3323.2265625,
+ "crs_ok": true,
+ "t_crscheck": 485.643025191,
+ "witness_ok": true,
+ "t_wtns": 29.926064252853394,
+ "t_prove": 23.086310809,
+ "proof_bytes": 128,
+ "t_prove_wall": 96.32952213287354,
+ "mem_prove_mb": 3323.2265625,
+ "verify_ok": true,
+ "t_verify_ms": 1.8753079,
+ "t_verify_first_ms": 2.87175,
+ "t7_reasons": {
+  "h": "h_query",
+  "l": "l_query",
+  "alpha": "alpha",
+  "gamma0": "degenerate gamma",
+  "a": "a_query"
+ },
+ "tamper_rejected": {
+  "T1_unsafe_sigma": true,
+  "T3_forged_refutation": true,
+  "T3b_forged_lookup": true,
+  "T6_bad_model": true,
+  "T2_wrong_statement": true,
+  "T4_wrong_opening": true,
+  "T5_corrupted_proof": true,
+  "T7_subverted_crs": true
+ }
+}

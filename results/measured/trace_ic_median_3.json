@@ -1,0 +1,25 @@
+{
+ "name": "ic_median_3",
+ "psi_clauses": 765,
+ "log": [
+  {
+   "iter": 1,
+   "candidate": [
+    1
+   ],
+   "verdict": "SAT",
+   "counterexample": [
+    4294967292,
+    4294967293,
+    4294967292
+   ]
+  },
+  {
+   "iter": 2,
+   "candidate": [
+    0
+   ],
+   "verdict": "UNSAT"
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "name": "m4_threshold",
+ "bin": "linear",
+ "K": 1,
+ "D": 2,
+ "orig": [
+  100
+ ],
+ "repair": {
+  "ok": true,
+  "sigma": [
+   2147483648
+  ],
+  "iters": 2,
+  "cexs": 1,
+  "solver_calls": 3,
+  "time": 0.04667210578918457
+ },
+ "orig_violates": true,
+ "t_inst_encode": 0.0370180606842041,
+ "bridge_ok": true,
+ "bridge": {
+  "unsat": [
+   20,
+   20
+  ],
+  "sat": [
+   10,
+   10
+  ]
+ },
+ "bridge_ref_ok": true,
+ "meta": {
+  "nA": 1146,
+  "nvA": 736,
+  "nB": 1213,
+  "nvB": 833,
+  "nU": 32,
+  "K": 1,
+  "W": 32,
+  "Q": 4,
+  "NL": 208,
+  "nL": 204,
+  "TT": 624,
+  "T": 605,
+  "TD": 208,
+  "base": 1246,
+  "pad": 16,
+  "t_encode": 0.038272857666015625,
+  "t_solve": 0.0030374526977539062,
+  "compacted": false,
+  "lrat_lemmas": 204,
+  "lrat_hints": 605,
+  "t_wit": 0.05314755439758301
+ },
+ "circuit": {
+  "LB": 10,
+  "IDB": 11,
+  "SB": 10,
+  "MB1": 10,
+  "MB23": 12,
+  "nbits": 108653,
+  "NH": 29
+ },
+ "circom_opt": "--O2",
+ "t_compile": 21.187257051467896,
+ "compile_ok": true,
+ "r1cs_nonlinear": 167033,
+ "r1cs_linear": 0
+}

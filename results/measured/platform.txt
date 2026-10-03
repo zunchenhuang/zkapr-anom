@@ -1,0 +1,6 @@
+Linux <host> 6.0.12-76060012-generic #202212290932~1683754412~20.04~3254e87~dev-Ubuntu SMP PREEMPT_DY x86_64 x86_64 x86_64 GNU/Linux
+CPU(s):                          12
+Model name:                      AMD Ryzen 5 5600X 6-Core Processor
+              total        used        free      shared  buff/cache   available
+Mem:             31          17           5           0           7          13
+Description:	Pop!_OS 20.04 LTS

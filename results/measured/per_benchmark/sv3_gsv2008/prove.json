@@ -1,0 +1,39 @@
+{
+ "name": "sv3_gsv2008",
+ "t_setup": 135.430704378,
+ "pk_bytes": 568874512,
+ "vk_bytes": 296,
+ "aux_bytes": 134217992,
+ "constraints": 2721398,
+ "wires": 2716603,
+ "t_setup_wall": 142.63532900810242,
+ "mem_setup_mb": 5507.7421875,
+ "crs_ok": true,
+ "t_crscheck": 854.714218137,
+ "witness_ok": true,
+ "t_wtns": 49.33088421821594,
+ "t_prove": 43.526641364,
+ "proof_bytes": 128,
+ "t_prove_wall": 168.31056666374207,
+ "mem_prove_mb": 5507.7421875,
+ "verify_ok": true,
+ "t_verify_ms": 1.9657559000000002,
+ "t_verify_first_ms": 2.886916,
+ "t7_reasons": {
+  "h": "h_query",
+  "l": "l_query",
+  "alpha": "alpha",
+  "gamma0": "degenerate gamma",
+  "a": "a_query"
+ },
+ "tamper_rejected": {
+  "T1_unsafe_sigma": true,
+  "T3_forged_refutation": true,
+  "T3b_forged_lookup": true,
+  "T6_bad_model": true,
+  "T2_wrong_statement": true,
+  "T4_wrong_opening": true,
+  "T5_corrupted_proof": true,
+  "T7_subverted_crs": true
+ }
+}

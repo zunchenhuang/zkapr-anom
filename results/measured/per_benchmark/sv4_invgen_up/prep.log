@@ -1,0 +1,2 @@
+{"name": "sv4_invgen_up", "bridge_ok": true, "orig_violates": true, "t_compile": 41.603607177734375, "compile_ok": true, "r1cs_nonlinear": 301278, "r1cs_linear": 0}
+{"nA": 2531, "nvA": 1317, "nB": 2540, "nvB": 1384, "nU": 32, "K": 1, "W": 32, "Q": 4, "NL": 336, "nL": 324, "TT": 1040, "T": 1020, "TD": 384, "base": 2573, "pad": 16, "t_encode": 0.038947343826293945, "t_solve": 0.004364013671875, "compacted": false, "lrat_lemmas": 324, "lrat_hints": 1020, "t_wit": 0.057476043701171875}

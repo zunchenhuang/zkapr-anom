@@ -1,0 +1,39 @@
+{
+ "name": "sv4_invgen_up",
+ "t_setup": 17.681288921,
+ "pk_bytes": 64441680,
+ "vk_bytes": 296,
+ "aux_bytes": 16777480,
+ "constraints": 301278,
+ "wires": 297901,
+ "t_setup_wall": 18.55243468284607,
+ "mem_setup_mb": 710.84765625,
+ "crs_ok": true,
+ "t_crscheck": 99.874959696,
+ "witness_ok": true,
+ "t_wtns": 5.832404613494873,
+ "t_prove": 5.867689672,
+ "proof_bytes": 128,
+ "t_prove_wall": 20.270286560058594,
+ "mem_prove_mb": 710.84765625,
+ "verify_ok": true,
+ "t_verify_ms": 1.9550167999999999,
+ "t_verify_first_ms": 2.883186,
+ "t7_reasons": {
+  "h": "h_query",
+  "l": "l_query",
+  "alpha": "alpha",
+  "gamma0": "degenerate gamma",
+  "a": "a_query"
+ },
+ "tamper_rejected": {
+  "T1_unsafe_sigma": true,
+  "T3_forged_refutation": true,
+  "T3b_forged_lookup": true,
+  "T6_bad_model": true,
+  "T2_wrong_statement": true,
+  "T4_wrong_opening": true,
+  "T5_corrupted_proof": true,
+  "T7_subverted_crs": true
+ }
+}

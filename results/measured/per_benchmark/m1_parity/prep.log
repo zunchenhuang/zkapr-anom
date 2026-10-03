@@ -1,0 +1,2 @@
+{"name": "m1_parity", "bridge_ok": true, "orig_violates": true, "t_compile": 37.17050337791443, "compile_ok": true, "r1cs_nonlinear": 120965, "r1cs_linear": 0}
+{"nA": 9011, "nvA": 2256, "nB": 9862, "nvB": 2575, "nU": 64, "K": 2, "W": 32, "Q": 4, "NL": 112, "nL": 99, "TT": 304, "T": 276, "TD": 96, "base": 9927, "pad": 16, "t_encode": 0.059891700744628906, "t_solve": 0.006906032562255859, "compacted": false, "lrat_lemmas": 99, "lrat_hints": 276, "t_wit": 0.08708620071411133}

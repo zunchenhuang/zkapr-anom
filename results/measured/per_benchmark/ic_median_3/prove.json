@@ -1,0 +1,39 @@
+{
+ "name": "ic_median_3",
+ "t_setup": 32.740129667,
+ "pk_bytes": 118423536,
+ "vk_bytes": 296,
+ "aux_bytes": 33554696,
+ "constraints": 532437,
+ "wires": 530430,
+ "t_setup_wall": 34.643728733062744,
+ "mem_setup_mb": 1287.26953125,
+ "crs_ok": true,
+ "t_crscheck": 181.560432475,
+ "witness_ok": true,
+ "t_wtns": 10.049822568893433,
+ "t_prove": 10.682944734,
+ "proof_bytes": 128,
+ "t_prove_wall": 37.14791226387024,
+ "mem_prove_mb": 1287.26953125,
+ "verify_ok": true,
+ "t_verify_ms": 1.9686632999999998,
+ "t_verify_first_ms": 2.88281,
+ "t7_reasons": {
+  "h": "h_query",
+  "l": "l_query",
+  "alpha": "alpha",
+  "gamma0": "degenerate gamma",
+  "a": "a_query"
+ },
+ "tamper_rejected": {
+  "T1_unsafe_sigma": true,
+  "T3_forged_refutation": true,
+  "T3b_forged_lookup": true,
+  "T6_bad_model": true,
+  "T2_wrong_statement": true,
+  "T4_wrong_opening": true,
+  "T5_corrupted_proof": true,
+  "T7_subverted_crs": true
+ }
+}

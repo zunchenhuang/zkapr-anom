@@ -1,0 +1,39 @@
+{
+ "name": "sv6_css2003",
+ "t_setup": 2.747175018,
+ "pk_bytes": 10501136,
+ "vk_bytes": 296,
+ "aux_bytes": 2097416,
+ "constraints": 61249,
+ "wires": 52523,
+ "t_setup_wall": 2.8683271408081055,
+ "mem_setup_mb": 164.46875,
+ "crs_ok": true,
+ "t_crscheck": 14.990770584,
+ "witness_ok": true,
+ "t_wtns": 2.604674816131592,
+ "t_prove": 1.093385781,
+ "proof_bytes": 128,
+ "t_prove_wall": 3.1230509281158447,
+ "mem_prove_mb": 983.21484375,
+ "verify_ok": true,
+ "t_verify_ms": 2.00636455,
+ "t_verify_first_ms": 2.875182,
+ "t7_reasons": {
+  "h": "h_query",
+  "l": "l_query",
+  "alpha": "alpha",
+  "gamma0": "degenerate gamma",
+  "a": "a_query"
+ },
+ "tamper_rejected": {
+  "T1_unsafe_sigma": true,
+  "T3_forged_refutation": true,
+  "T3b_forged_lookup": true,
+  "T6_bad_model": true,
+  "T2_wrong_statement": true,
+  "T4_wrong_opening": true,
+  "T5_corrupted_proof": true,
+  "T7_subverted_crs": true
+ }
+}

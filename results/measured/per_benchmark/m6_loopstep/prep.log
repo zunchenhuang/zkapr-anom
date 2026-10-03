@@ -1,0 +1,2 @@
+{"name": "m6_loopstep", "bridge_ok": true, "orig_violates": true, "t_compile": 95.81379246711731, "compile_ok": true, "r1cs_nonlinear": 600698, "r1cs_linear": 0}
+{"nA": 3434, "nvA": 1238, "nB": 3609, "nvB": 1350, "nU": 32, "K": 1, "W": 32, "Q": 4, "NL": 592, "nL": 579, "TT": 2080, "T": 2061, "TD": 768, "base": 3642, "pad": 16, "t_encode": 0.048969268798828125, "t_solve": 0.0058019161224365234, "compacted": false, "lrat_lemmas": 579, "lrat_hints": 2061, "t_wit": 0.07975411415100098}

@@ -1,0 +1,39 @@
+{
+ "name": "m2_clamp",
+ "t_setup": 11.117141763,
+ "pk_bytes": 40755632,
+ "vk_bytes": 296,
+ "aux_bytes": 8388872,
+ "constraints": 203771,
+ "wires": 202292,
+ "t_setup_wall": 11.765053033828735,
+ "mem_setup_mb": 439.26171875,
+ "crs_ok": true,
+ "t_crscheck": 63.899975575,
+ "witness_ok": true,
+ "t_wtns": 3.9084579944610596,
+ "t_prove": 3.399604655,
+ "proof_bytes": 128,
+ "t_prove_wall": 12.545881032943726,
+ "mem_prove_mb": 439.26171875,
+ "verify_ok": true,
+ "t_verify_ms": 1.9432036,
+ "t_verify_first_ms": 2.874253,
+ "t7_reasons": {
+  "h": "h_query",
+  "l": "l_query",
+  "alpha": "alpha",
+  "gamma0": "degenerate gamma",
+  "a": "a_query"
+ },
+ "tamper_rejected": {
+  "T1_unsafe_sigma": true,
+  "T3_forged_refutation": true,
+  "T3b_forged_lookup": true,
+  "T6_bad_model": true,
+  "T2_wrong_statement": true,
+  "T4_wrong_opening": true,
+  "T5_corrupted_proof": true,
+  "T7_subverted_crs": true
+ }
+}

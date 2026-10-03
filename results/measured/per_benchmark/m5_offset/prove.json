@@ -1,0 +1,39 @@
+{
+ "name": "m5_offset",
+ "t_setup": 19.155434722,
+ "pk_bytes": 72195600,
+ "vk_bytes": 296,
+ "aux_bytes": 16777480,
+ "constraints": 348711,
+ "wires": 346363,
+ "t_setup_wall": 20.228909730911255,
+ "mem_setup_mb": 824.2109375,
+ "crs_ok": true,
+ "t_crscheck": 111.485791334,
+ "witness_ok": true,
+ "t_wtns": 6.799603223800659,
+ "t_prove": 6.084735149,
+ "proof_bytes": 128,
+ "t_prove_wall": 22.322941064834595,
+ "mem_prove_mb": 824.2109375,
+ "verify_ok": true,
+ "t_verify_ms": 1.8598240500000003,
+ "t_verify_first_ms": 2.885514,
+ "t7_reasons": {
+  "h": "h_query",
+  "l": "l_query",
+  "alpha": "alpha",
+  "gamma0": "degenerate gamma",
+  "a": "a_query"
+ },
+ "tamper_rejected": {
+  "T1_unsafe_sigma": true,
+  "T3_forged_refutation": true,
+  "T3b_forged_lookup": true,
+  "T6_bad_model": true,
+  "T2_wrong_statement": true,
+  "T4_wrong_opening": true,
+  "T5_corrupted_proof": true,
+  "T7_subverted_crs": true
+ }
+}

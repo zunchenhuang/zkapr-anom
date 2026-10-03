@@ -1,0 +1,126 @@
+{
+ "m1_parity": [
+  "parity of an affine function",
+  "micro"
+ ],
+ "m2_clamp": [
+  "offset followed by an upper clamp",
+  "micro"
+ ],
+ "m3_accum": [
+  "bounded accumulation loop",
+  "micro"
+ ],
+ "m4_threshold": [
+  "threshold subtraction",
+  "micro"
+ ],
+ "m5_offset": [
+  "two offsets that must cancel",
+  "micro"
+ ],
+ "m6_loopstep": [
+  "loop with a constant step",
+  "micro"
+ ],
+ "sv1_afnp2014": [
+  "loop-lit/afnp2014.c",
+  "SV-COMP"
+ ],
+ "sv2_count_up_down": [
+  "loops/count\\_up\\_down-1.c",
+  "SV-COMP"
+ ],
+ "sv3_gsv2008": [
+  "loop-lit/gsv2008.c",
+  "SV-COMP"
+ ],
+ "sv4_invgen_up": [
+  "loop-invgen/up.c",
+  "SV-COMP"
+ ],
+ "sv5_cggmp2005": [
+  "loop-lit/cggmp2005.c",
+  "SV-COMP"
+ ],
+ "sv6_css2003": [
+  "loop-lit/css2003.c",
+  "SV-COMP"
+ ],
+ "ic_median_1": [
+  "median of three integers, student 3b2376",
+  "IntroClass",
+  26,
+  [
+   "cmp",
+   "sel:n1,n2,n3",
+   "sel:n1,n2,n3"
+  ]
+ ],
+ "ic_median_2": [
+  "median of three integers, student 908348",
+  "IntroClass",
+  16,
+  [
+   "cmp",
+   "cmp"
+  ]
+ ],
+ "ic_median_3": [
+  "median of three integers, student fe9d5f",
+  "IntroClass",
+  22,
+  [
+   "sel:num1,num2,num3"
+  ]
+ ],
+ "ic_smallest_1": [
+  "smallest of four integers, student 769cd8",
+  "IntroClass",
+  16,
+  [
+   "sel5:a,b,c,d,x",
+   "sel5:a,b,c,d,x"
+  ]
+ ],
+ "ic_smallest_2": [
+  "smallest of four integers, student c868b3",
+  "IntroClass",
+  27,
+  [
+   "int"
+  ]
+ ],
+ "ic_grade_1": [
+  "letter grade from thresholds, student 531924",
+  "IntroClass",
+  36,
+  [
+   "cmp",
+   "cmp",
+   "cmp"
+  ]
+ ],
+ "ic_grade_2": [
+  "letter grade from thresholds, student bfad6d",
+  "IntroClass",
+  19,
+  [
+   "cmp"
+  ]
+ ],
+ "ic_grade_3": [
+  "letter grade from thresholds, student f5b56c",
+  "IntroClass",
+  25,
+  [
+   "cmp",
+   "cmp",
+   "cmp",
+   "cmp"
+  ]
+ ],
+ "_paper_exclude": [
+  "ic_smallest_2"
+ ]
+}

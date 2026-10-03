@@ -1,0 +1,48 @@
+{
+ "sv2_count_up_down": [
+  {
+   "D": 2,
+   "psi_clauses": 2087,
+   "lemmas": 271,
+   "hint_steps": 1001
+  },
+  {
+   "D": 3,
+   "psi_clauses": 3077,
+   "lemmas": 429,
+   "hint_steps": 1745
+  },
+  {
+   "D": 4,
+   "psi_clauses": 4066,
+   "lemmas": 587,
+   "hint_steps": 2581
+  },
+  {
+   "D": 6,
+   "psi_clauses": 6048,
+   "lemmas": 902,
+   "hint_steps": 4534
+  }
+ ],
+ "sv3_gsv2008": [
+  {
+   "D": 3,
+   "psi_clauses": 3104,
+   "lemmas": 42,
+   "hint_steps": 1897
+  },
+  {
+   "D": 4,
+   "psi_clauses": 4093,
+   "lemmas": 131,
+   "hint_steps": 4287
+  },
+  {
+   "D": 6,
+   "psi_clauses": 6076,
+   "lemmas": 267,
+   "hint_steps": 6763
+  }
+ ]
+}

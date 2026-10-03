@@ -1,0 +1,2 @@
+{"name": "m4_threshold", "bridge_ok": true, "orig_violates": true, "t_compile": 21.187257051467896, "compile_ok": true, "r1cs_nonlinear": 167033, "r1cs_linear": 0}
+{"nA": 1146, "nvA": 736, "nB": 1213, "nvB": 833, "nU": 32, "K": 1, "W": 32, "Q": 4, "NL": 208, "nL": 204, "TT": 624, "T": 605, "TD": 208, "base": 1246, "pad": 16, "t_encode": 0.038272857666015625, "t_solve": 0.0030374526977539062, "compacted": false, "lrat_lemmas": 204, "lrat_hints": 605, "t_wit": 0.05314755439758301}

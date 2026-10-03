@@ -1,0 +1,2 @@
+{"name": "ic_median_1", "bridge_ok": true, "orig_violates": true, "t_compile": 97.27726864814758, "compile_ok": true, "r1cs_nonlinear": 598530, "r1cs_linear": 0}
+{"nA": 1010, "nvA": 2031, "nB": 1013, "nvB": 2096, "nU": 96, "K": 3, "W": 32, "Q": 5, "NL": 432, "nL": 420, "TT": 1904, "T": 1890, "TD": 528, "base": 1110, "pad": 16, "t_encode": 0.0400087833404541, "t_solve": 0.0036911964416503906, "compacted": false, "lrat_lemmas": 420, "lrat_hints": 1890, "t_wit": 0.06122589111328125}

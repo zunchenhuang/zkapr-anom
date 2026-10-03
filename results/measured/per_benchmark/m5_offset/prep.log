@@ -1,0 +1,2 @@
+{"name": "m5_offset", "bridge_ok": true, "orig_violates": true, "t_compile": 51.09424042701721, "compile_ok": true, "r1cs_nonlinear": 348711, "r1cs_linear": 0}
+{"nA": 1358, "nvA": 894, "nB": 1754, "nvB": 1069, "nU": 64, "K": 2, "W": 32, "Q": 4, "NL": 352, "nL": 350, "TT": 1280, "T": 1268, "TD": 416, "base": 1819, "pad": 16, "t_encode": 0.03134965896606445, "t_solve": 0.0033681392669677734, "compacted": false, "lrat_lemmas": 350, "lrat_hints": 1268, "t_wit": 0.04706931114196777}

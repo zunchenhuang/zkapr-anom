@@ -1,0 +1,173 @@
+[
+ {
+  "name": "ic_grade_1",
+  "lemmas_raw": 1554,
+  "hints_raw": 5686,
+  "bytes_raw": 57768,
+  "lemmas_trim": 598,
+  "hints_trim": 3005,
+  "bytes_trim": 40463
+ },
+ {
+  "name": "ic_grade_2",
+  "lemmas_raw": 1155,
+  "hints_raw": 4305,
+  "bytes_raw": 44178,
+  "lemmas_trim": 608,
+  "hints_trim": 2755,
+  "bytes_trim": 36682
+ },
+ {
+  "name": "ic_grade_3",
+  "lemmas_raw": 1243,
+  "hints_raw": 4425,
+  "bytes_raw": 47991,
+  "lemmas_trim": 615,
+  "hints_trim": 2227,
+  "bytes_trim": 36600
+ },
+ {
+  "name": "ic_median_1",
+  "lemmas_raw": 696,
+  "hints_raw": 2608,
+  "bytes_raw": 26321,
+  "lemmas_trim": 420,
+  "hints_trim": 1890,
+  "bytes_trim": 24559
+ },
+ {
+  "name": "ic_median_2",
+  "lemmas_raw": 681,
+  "hints_raw": 2664,
+  "bytes_raw": 26543,
+  "lemmas_trim": 445,
+  "hints_trim": 2041,
+  "bytes_trim": 25983
+ },
+ {
+  "name": "ic_median_3",
+  "lemmas_raw": 570,
+  "hints_raw": 2343,
+  "bytes_raw": 21407,
+  "lemmas_trim": 357,
+  "hints_trim": 1774,
+  "bytes_trim": 19824
+ },
+ {
+  "name": "ic_smallest_1",
+  "lemmas_raw": 770,
+  "hints_raw": 2855,
+  "bytes_raw": 30601,
+  "lemmas_trim": 275,
+  "hints_trim": 1740,
+  "bytes_trim": 20290
+ },
+ {
+  "name": "m1_parity",
+  "lemmas_raw": 1944,
+  "hints_raw": 5631,
+  "bytes_raw": 61493,
+  "lemmas_trim": 99,
+  "hints_trim": 276,
+  "bytes_trim": 52923
+ },
+ {
+  "name": "m2_clamp",
+  "lemmas_raw": 411,
+  "hints_raw": 1333,
+  "bytes_raw": 11727,
+  "lemmas_trim": 207,
+  "hints_trim": 788,
+  "bytes_trim": 13988
+ },
+ {
+  "name": "m3_accum",
+  "lemmas_raw": 600,
+  "hints_raw": 2095,
+  "bytes_raw": 18691,
+  "lemmas_trim": 400,
+  "hints_trim": 1561,
+  "bytes_trim": 26942
+ },
+ {
+  "name": "m4_threshold",
+  "lemmas_raw": 415,
+  "hints_raw": 1163,
+  "bytes_raw": 11241,
+  "lemmas_trim": 204,
+  "hints_trim": 605,
+  "bytes_trim": 13564
+ },
+ {
+  "name": "m5_offset",
+  "lemmas_raw": 549,
+  "hints_raw": 1822,
+  "bytes_raw": 16615,
+  "lemmas_trim": 350,
+  "hints_trim": 1268,
+  "bytes_trim": 23869
+ },
+ {
+  "name": "m6_loopstep",
+  "lemmas_raw": 946,
+  "hints_raw": 3137,
+  "bytes_raw": 28521,
+  "lemmas_trim": 579,
+  "hints_trim": 2061,
+  "bytes_trim": 43133
+ },
+ {
+  "name": "sv1_afnp2014",
+  "lemmas_raw": 738,
+  "hints_raw": 2057,
+  "bytes_raw": 20496,
+  "lemmas_trim": 184,
+  "hints_trim": 469,
+  "bytes_trim": 31527
+ },
+ {
+  "name": "sv2_count_up_down",
+  "lemmas_raw": 624,
+  "hints_raw": 2022,
+  "bytes_raw": 18388,
+  "lemmas_trim": 271,
+  "hints_trim": 1001,
+  "bytes_trim": 21772
+ },
+ {
+  "name": "sv3_gsv2008",
+  "lemmas_raw": 278,
+  "hints_raw": 2771,
+  "bytes_raw": 17638,
+  "lemmas_trim": 42,
+  "hints_trim": 1897,
+  "bytes_trim": 25041
+ },
+ {
+  "name": "sv4_invgen_up",
+  "lemmas_raw": 911,
+  "hints_raw": 2645,
+  "bytes_raw": 25364,
+  "lemmas_trim": 324,
+  "hints_trim": 1020,
+  "bytes_trim": 25607
+ },
+ {
+  "name": "sv5_cggmp2005",
+  "lemmas_raw": 1349,
+  "hints_raw": 3910,
+  "bytes_raw": 37873,
+  "lemmas_trim": 212,
+  "hints_trim": 621,
+  "bytes_trim": 37774
+ },
+ {
+  "name": "sv6_css2003",
+  "lemmas_raw": 871,
+  "hints_raw": 2360,
+  "bytes_raw": 23962,
+  "lemmas_trim": 12,
+  "hints_trim": 31,
+  "bytes_trim": 43975
+ }
+]
