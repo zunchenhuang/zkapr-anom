@@ -1,4 +1,4 @@
-# ZKA-PR artifact: Zero-Knowledge Argument for Program Repair
+# ZKA-PR artifact
 
 This artifact reproduces the evaluation of the paper (Section 8): every number and data table in
 the paper is generated from the measurements by `pipeline/report.py` and `pipeline/make_numbers.py`.
